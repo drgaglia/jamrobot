@@ -1,0 +1,16 @@
+.btn {
+    width: 40%;
+    height: 200px;
+    background-color: indianred;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 4vw;
+    color: white;
+    border-radius: 20px;
+    border: none;
+    margin: 3px 3px 3px 3px;
+}
+
+.btn:disabled {
+    background-color: darkred;
+    color: gray;
+}
